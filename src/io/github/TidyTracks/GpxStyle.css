@@ -1,0 +1,21 @@
+.select-hyperlinks {
+    -fx-text-fill: -fx-accent;
+}
+
+.select-hyperlinks:armed,
+.select-hyperlinks:visited,
+.select-hyperlinks:hover:armed {
+    -fx-text-fill: -fx-accent;
+}
+
+.select-hyperlinks:hover,
+.select-hyperlinks:visited,
+.select-hyperlinks:hover:visited {
+    -fx-underline: false;
+}
+
+.select-hyperlinks:focused {
+    -fx-border-color: null;
+    -fx-border-style: null;
+    -fx-border-width: null;
+}

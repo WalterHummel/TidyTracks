@@ -1,0 +1,7 @@
+.validExtension {
+    -fx-control-inner-background: green;
+}
+
+.invalidExtension {
+    -fx-control-inner-background: red;
+}
