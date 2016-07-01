@@ -14,9 +14,10 @@ Tidy Tracks requires [Java](http://java.com/en/download/) 8u40 or later.
 
  - Tidy Tracks is a program that can remove sensitive information from GPS tracks, such as dates and times or metadata. This is useful when preparing a track for the Internet. 
 
- - Tidy Tracks can also be used as a workaround for [Google Earth](https://www.google.com/earth/).
+ - Tidy Tracks can also be used as a workaround for [Google Earth](https://www.google.com/earth/) to view historical imagery and GPS tracks at the same time.
  
 In Google Earth the Time and Date Slider used to show the progress of a track is the same as the Historical Imagery Slider. 
+
 ![alt-text](https://github.com/WalterHummel/TidyTracks/blob/master/docs/images/slider1.png)
  
 The user slides the slider to view other images, but if the image date is older than the currently displayed track the track will disappear from the map. 
