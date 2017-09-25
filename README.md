@@ -1,16 +1,16 @@
-#Tidy Tracks
+# Tidy Tracks
 
 Tidy Tracks addresses privacy concerns by allowing users to remove potentially unwanted elements from GPS tracks.
 
-##Download
+## Download
 
 An executable jar file can be downloaded [here](https://github.com/WalterHummel/TidyTracks/raw/master/bin/TidyTracks.jar).
 
-##Requirements
+## Requirements
 
 Tidy Tracks requires [Java](http://java.com/en/download/) 8u40 or later.
 
-##What Tidy Tracks Is
+## What Tidy Tracks Is
 
  - Tidy Tracks is a program that can remove sensitive information from GPS tracks, such as dates and times or metadata. This is useful when preparing a track for the Internet. 
 
@@ -32,7 +32,7 @@ Once a track is imported into Google Earth without time data the user is free to
  
 ![alt-text](https://github.com/WalterHummel/TidyTracks/blob/master/docs/images/slider3.png)
 
-##What Tidy Tracks Is _Not_
+## What Tidy Tracks Is _Not_
 
  - Tidy Tracks is not for reducing GPS tracks. As in removing individual points from a GPS track based on proximity to other track points, distance intervals, etc.
 
@@ -40,11 +40,11 @@ Once a track is imported into Google Earth without time data the user is free to
 
 Please see the [GPSBabel project](http://www.gpsbabel.org/) for these features.
 
-##Supported Formats
+## Supported Formats
 
 - GPX
 
-##License
+## License
 
 Copyright (c) 2016 Walter Hummel
 
